@@ -71,3 +71,4 @@ The model was designed for **easy scalability** and future metric expansion.
 
 ## 🖼️ Dashboard Preview
 
+<img width="1412" height="794" alt="Tracker treningowy - KajoDataSpace" src="https://github.com/user-attachments/assets/2dfebd1a-97dd-42e4-98ad-8fc79dd6afa5" />
